@@ -1,0 +1,49 @@
+
+
+.padding {
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.banner-img {
+  height: 40px;
+}
+
+
+.banner {
+  color: #d5dae2;
+  text-align: left;
+  height: auto;
+  background-size: cover !important;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+}
+.banner h1 {
+  font-size: 30px;
+  font-weight: bold;
+  text-shadow: 0px 1px rgba(0, 0, 0, 0.2);
+
+
+}
+.banner p {
+  font-size: 16px;
+  font-weight: lighter;
+  color: #d5dae2;
+  margin-bottom: 20px;
+
+}
+
+p {
+  font-size: 12px;
+}
+
+a {
+  font-size: 12px;
+  color: #EF86B8;
+}
+
+h5 {
+  color: #563A98;
+}
